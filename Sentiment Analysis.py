@@ -1,9 +1,3 @@
-# Vedant Mahawar
-# A Period Topics In CS: AIML
-# March 6th 2024
-# Program that creates and trains a model to perform sentiment analysis on 
-# twitter tweets 
-
 # Imports pandas for dataframes 
 import pandas 
 # Imports wordcloud for data visualization
